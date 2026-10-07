@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.npy
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Pytest / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build & Distribution
+build/
+dist/
+*.egg-info/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Indices & temporary data
+data/indices/
+*.log
+
