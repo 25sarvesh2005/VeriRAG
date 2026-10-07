@@ -297,7 +297,7 @@ VeriRAG/
 
 ### 1. Clone & Set Up Virtual Environment
 ```bash
-git clone https://github.com/your-username/VeriRAG.git
+git clone https://github.com/25sarvesh2005/VeriRAG.git
 cd VeriRAG
 
 python -m venv .venv
@@ -516,20 +516,31 @@ Contributions, bug reports, and feature proposals are welcome!
 
 ## 📖 Citation
 
-If you use VeriRAG in your research or software systems, please cite:
+If you use VeriRAG in your research, experiments, or software systems, please cite:
 
 ```bibtex
-@software{verirag2026,
-  author = {VeriRAG Contributors},
+@software{sharma2026verirag,
+  author = {Sharma, Sarvesh},
   title = {VeriRAG: Production-Grade Hybrid Search RAG with Claim-Level Citation Verification},
   year = {2026},
-  url = {https://github.com/your-username/VeriRAG}
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  url = {https://github.com/25sarvesh2005/VeriRAG}
 }
 ```
+
+---
+
+## 👤 Author
+
+**Sarvesh Sharma**
+- GitHub: [@25sarvesh2005](https://github.com/25sarvesh2005)
+- Email: [sarvesh.sh7890@gmail.com](mailto:sarvesh.sh7890@gmail.com)
 
 ---
 
 ## 📜 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
 
